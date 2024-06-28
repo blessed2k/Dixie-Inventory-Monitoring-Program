@@ -1,1 +1,1 @@
-# Dixie-Inventory-Monitoring-Program
+Дипломный проект
